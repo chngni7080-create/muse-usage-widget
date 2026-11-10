@@ -2,8 +2,8 @@
   "additional_tokens_left": "3B",
   "plan": "free",
   "reset_at": "2026-11-16T09:34:00+09:00",
-  "reset_in_days": 7,
-  "updated_at": "2026-11-10T09:23:15+09:00",
+  "reset_in_days": 6,
+  "updated_at": "2026-11-10T09:38:15+09:00",
   "weekly_remaining_pct": 17,
   "weekly_used_pct": 83
 }
